@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
-global.ytname = "YT: Nero" //ur yt chanel name
-global.socialm = "GitHub: Nero" //ur github or insta name
+global.vcardowner = ['94701358330'] //ur owner number
+global.ownername = "🍁අතිගරු සයිබර් සෝල්🍁 " //ur owner name
+global.ytname = "YT: CYBER SOUL MODS" //ur yt chanel name
+global.socialm = "GitHub: Cyber soul" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['774579505']
-global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
+global.owner = ['701358330']
+global.ownertag = '701358330' //ur tag number
+global.botname = '🍁අතිගරු සයිබර් සෝල් උතුමානන්🍁' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
-global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Kaveesha sithum" //ur sticker watermark author
+global.reactmoji = "🍁" //ur menu react emoji
+global.themeemoji = "❤️🍁" //ur theme emoji
+global.packname = "CYBER SOUL " //ur sticker watermark packname
+global.author = "🍁අතිගරු සයිබර් සෝල්" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
